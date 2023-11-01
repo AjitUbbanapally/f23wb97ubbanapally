@@ -11,3 +11,4 @@ Hosted at [Hosting link](https://f23wb97ubbanapally.onrender.com)
 |-------------| ---------- | --------------- |
 | Reticulated giraffe | 5 | 15 |
 | Masai giraffe | 6 | 16 |
+| South African giraffe | 8 | 18 |
