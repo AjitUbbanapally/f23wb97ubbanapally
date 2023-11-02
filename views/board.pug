@@ -8,9 +8,9 @@ block content
     if !(Number.isInteger(rows)) ||  !(Number.isInteger(rows))
         p Given values are not integers A
     else if( (rows < 1)&&(rows>10))
-        p Number of rows should be less than 4
+        p the Number of rows should be less than 4
     else if(cols <1 && cols>10)
-        p Number of columns should be less than 5
+        p the Number of columns should be less than 5
     else
         table#outer
          - for(let i=0; i<query.rows; i++) {
